@@ -5,9 +5,12 @@
 * Information Engineering<br>
 * DIY fanatic
 
-*******
-Currently Project:
+Current Project:
 ------
+* STM32 Smart DoorLock
+* Some fancy thoughts
+
+
 
 <!---
 IM8arGa1n/IM8arGa1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
